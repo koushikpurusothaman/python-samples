@@ -1,2 +1,4 @@
 # python-samples
-sample python for beginners
+sample python programs for beginners
+
+
